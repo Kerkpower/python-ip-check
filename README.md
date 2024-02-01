@@ -36,4 +36,3 @@ If you find issues or have suggestions for improvements, feel free to open an is
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-```
